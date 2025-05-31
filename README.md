@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Python and working on a Django app.
+🌱 I’m currently learning Python and working on a Django app.    
 📚 I recently completed the IBM AI Developer certification.
