@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Full-Stack JavaScript developer.
+I'm a Full-Stack JavaScript developer.    
 🌱 Recently I've been learning Python and I’m currently working on a Django app.    
 📚 I've completed the IBM AI Developer certification and the Meta APIs certification.
