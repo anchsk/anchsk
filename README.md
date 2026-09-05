@@ -13,8 +13,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 I'm a Full-Stack JavaScript developer.    
 🌱 Recently I've been learning Python and I’m currently working on a Django app.    
 📚 I've completed the IBM AI Developer certification and the Meta APIs certification.
+-->
+
+**What I do:**
+I build applications powered by LLMs, connect enterprise data to AI models using RAG, design system prompts, optimize retrieval accuracy, and guard against hallucinations.
+
+**Core skills:**
+Python, LangChain, RAG pipelines, API integration, vector DBs, FastApi, PyTorch
+
+**Other skills:**
+Javascript, TypeScript, React, Node.js
