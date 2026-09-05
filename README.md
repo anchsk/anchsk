@@ -20,11 +20,11 @@ I'm a Full-Stack JavaScript developer.
 📚 I've completed the IBM AI Developer certification and the Meta APIs certification.
 -->
 
-**What I do:**
+**What I do:**  
 I build applications powered by LLMs, connect enterprise data to AI models using RAG, design system prompts, optimize retrieval accuracy, and guard against hallucinations.
 
-**Core skills:**
+**Core skills:**  
 Python, LangChain, RAG pipelines, API integration, vector DBs, FastApi, PyTorch
 
-**Other skills:**
+**Other skills:**  
 Javascript, TypeScript, React, Node.js
